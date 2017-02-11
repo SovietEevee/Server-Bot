@@ -1,1 +1,1 @@
-# Server-Bot
+Used for Discord Purposes.
